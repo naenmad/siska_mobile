@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../siska-scraper-api"
+		},
+		{
+			"path": "../../../../device_wrapper"
+		}
+	],
+	"settings": {}
+}
